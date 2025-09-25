@@ -22,7 +22,6 @@ const prompt = require("prompt-sync")()
 
 // principal()
 
-console.log("--------------------")
 // https://pokeapi.co/api/v2/pokemon/charizard
 
 async function obtenerDatos(nombre){
